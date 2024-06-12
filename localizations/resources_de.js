@@ -1,7 +1,7 @@
 const resources_de = {
   pageTitle: "Manifesto",
   logoAlt: "Logo der Marke",
-  productName: "Rock mit Geheimnissen",
+  productName: "The Uncensored Pants",
   imageAlt: "Foto des Artikels",
   menuItems: [
     "Produktcode",

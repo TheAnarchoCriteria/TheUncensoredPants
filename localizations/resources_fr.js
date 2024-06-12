@@ -1,7 +1,7 @@
 const resources_fr = {
   pageTitle: "Manifesto",
   logoAlt: "Logo de la marque",
-  productName: "Jupe avec des secrets",
+  productName: "The Uncensored Pants",
   imageAlt: "Photo de l'article",
   menuItems: [
     "Code produit",
