@@ -8,7 +8,7 @@ const resources_en = {
     "Materials",
     "Care instructions",
     "Product journey",
-    "Why do I need a blockchain passport?",
+    "Why do I need a Blockchain Passport?",
     "Contact Me"
   ],
   info1: [
@@ -18,7 +18,8 @@ const resources_en = {
     "44e25bc0ed840f9bf0e58d6227db15192d5b89e79ba4304da16b09703f68ceaf"
   ],
   info2: [
-    "100% Organic cotton"
+    "Fabric: 80% Ahimsa Silk, 20% Polyester.",
+    "Lining: 100% Ahimsa Silk."
   ],
   info3: [
     "Do Not Wash",
@@ -28,8 +29,8 @@ const resources_en = {
     "Dry Clean with Tetrachloroethylene"
   ],
   info4: [
-   "Step 1. Fiber: Diyarbakır, Turkey",
-    "Step 2. Dye: Denizli, Turkey",
+    "Step 1. Fiber: Diyarbakır, Turkey",
+    "Step 2. Dye:  Denizli, Turkey",
     "Step 3. Tailoring: Barcelona, España",
     "Step 4. Quality control: Barcelona, España",
     "Step 5. Labeling and packaging: Barcelona, España"
